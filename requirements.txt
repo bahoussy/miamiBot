@@ -1,0 +1,8 @@
+numpy 
+discord ==  2.0.0
+newsapi 
+python-dotenv 
+requests  == 2.27.1
+Flask 
+bs4
+mongo
